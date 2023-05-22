@@ -57,6 +57,10 @@ code {
   color: #555;
   margin-right: 5px;
 }
+.header-container .links a {
+  text-decoration: none;
+  color: inherit;
+}
 .header-container .links li:not(:last-child) {
   border-right: 1px solid #000;
 }
